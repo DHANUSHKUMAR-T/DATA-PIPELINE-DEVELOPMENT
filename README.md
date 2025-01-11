@@ -17,6 +17,7 @@
   2)DELIVERABLE: A PYTHON SCRIPT OR NOTEBOOK AUTOMATING THE ETL PROCESS.
 
   **Description**:This project implements an ETL (Extract, Transform, Load) pipeline to preprocess raw data into a clean, analysis-ready format. It automates missing value handling, categorical encoding, and numerical normalization using Python.
+  #
   **Features**: Extract: Reads raw data from a CSV file.
                 Transform:
                      Fills missing values (mean/mode).
