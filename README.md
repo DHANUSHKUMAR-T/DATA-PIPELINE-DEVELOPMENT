@@ -34,3 +34,6 @@
   |       Input	      |              Output|
   |-------------------|--------------------|
   |Age: 25, Gender: M |Age: 0.84, Gender: 1|
+
+  # OUTPUT:
+  
