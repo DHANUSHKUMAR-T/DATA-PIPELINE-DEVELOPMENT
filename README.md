@@ -15,6 +15,8 @@
 # TASK-1(DATA PIPELINE DEVELOPMENT)
 #
   1)CREATE A PIPELINE FOR DATA PREPROCESSING, TRANSFORMATION, AND LOADING USING TOOLS LIKE PANDAS AND SCIKIT-LEARN
+  #
+  
   2)DELIVERABLE: A PYTHON SCRIPT OR NOTEBOOK AUTOMATING THE ETL PROCESS.
 
   **Description**:This project implements an ETL (Extract, Transform, Load) pipeline to preprocess raw data into a clean, analysis-ready format. It automates missing value handling, categorical encoding, and numerical normalization using Python.
