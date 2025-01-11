@@ -24,6 +24,8 @@
                      Encodes categorical variables (LabelEncoder).
                      Normalizes numerical features (MinMaxScaler).
                 Load: Saves the processed data to processed_data.csv, replacing old files safely.
+                #
+                
   **Example**:
   __________________________________________
   |       Input	      |              Output|
