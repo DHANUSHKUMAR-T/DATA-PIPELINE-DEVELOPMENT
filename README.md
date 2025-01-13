@@ -36,7 +36,10 @@
   |Age: 25, Gender: M |Age: 0.84, Gender: 1|
 
   # OUTPUT:
+**RAW DATA**
+![Screenshot 2025-01-11 230025](https://github.com/user-attachments/assets/792b2e3e-3d66-4480-8bac-38abb953c397)
 
-![Screenshot 2025-01-12 221129](https://github.com/user-attachments/assets/bec8c1e9-8265-4715-bb9a-c89a9a972c2d)
+**AFTER DATA DATA-PIPELINE**
+
 
   
