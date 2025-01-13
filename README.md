@@ -36,4 +36,7 @@
   |Age: 25, Gender: M |Age: 0.84, Gender: 1|
 
   # OUTPUT:
+
+![Screenshot 2025-01-12 221129](https://github.com/user-attachments/assets/bec8c1e9-8265-4715-bb9a-c89a9a972c2d)
+
   
