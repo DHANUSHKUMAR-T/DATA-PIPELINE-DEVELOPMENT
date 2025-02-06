@@ -28,11 +28,11 @@
 ✔ **Transform**:  
 
    - 🛠 Fills missing values (mean/mode).
-   - 
+     
    - 🔤 Encodes categorical variables (`LabelEncoder`).
-   - 
+     
    - 📏 Normalizes numerical features (`MinMaxScaler`).
-   - 
+     
 ✔ **Load**: Saves the processed data to `processed_data.csv` 📁.
 
   #
