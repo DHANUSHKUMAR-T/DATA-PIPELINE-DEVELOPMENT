@@ -21,19 +21,33 @@
 
   **Description**:This project implements an ETL (Extract, Transform, Load) pipeline to preprocess raw data into a clean, analysis-ready format. It automates missing value handling, categorical encoding, and numerical normalization using Python.
   #
-  **Features**: Extract: Reads raw data from a CSV file.
-                Transform:
-                     Fills missing values (mean/mode).
-                     Encodes categorical variables (LabelEncoder).
-                     Normalizes numerical features (MinMaxScaler).
-                Load: Saves the processed data to processed_data.csv, replacing old files safely.
+  ## 🛠 Features
+
+✔ **Extract**: Reads raw data from a CSV file.
+
+✔ **Transform**:  
+
+   - 🛠 Fills missing values (mean/mode).
+   - 
+   - 🔤 Encodes categorical variables (`LabelEncoder`).
+   - 
+   - 📏 Normalizes numerical features (`MinMaxScaler`).
+   - 
+✔ **Load**: Saves the processed data to `processed_data.csv` 📁.
+
   #
+
+  ## 🛠 Tech Stack
+✔ Python 🐍
+✔ Pandas 📊
+✔ Scikit-learn 🤖
                 
-  **Example**:
+  ## 📌 Example:
   __________________________________________
   |       Input	      |              Output|
   |-------------------|--------------------|
   |Age: 25, Gender: M |Age: 0.84, Gender: 1|
+  __________________________________________
 
   # OUTPUT:
 **RAW DATA**
